@@ -15,15 +15,15 @@ I am a Computer Science student passionate about programming, software developme
 ## 🛠️ Skills
 
 💻  Programming        🌐 Web Development
-* Python              • HTML
-* Java                • CSS
-                      • JavaScript
-                      • React
+* Python                   • HTML
+* Java                     • CSS
+                           • JavaScript
+                           • React
 
 ⚙️  Tools              🔧 Backend
-* Git                 • Flask
-* GitHub              • Database
-* VS Code             • APIs
+* Git                     • Flask
+* GitHub                  • Database
+* VS Code                 • APIs
 
 ## 📌 Projects
  🚀 Student Skill Gap Analyzer
