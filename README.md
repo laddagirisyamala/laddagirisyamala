@@ -30,7 +30,8 @@ I am a Computer Science student passionate about programming, software developme
 - VS Code
 
 ## 📌 Projects
- Student Skill Gap Analyzer
+ 🚀 Student Skill Gap Analyzer
+
 A Flask-based web application that analyzes student skills, identifies skill gaps, and recommends personalized learning paths.
 Tech: Python | Flask | HTML | CSS
 🔗 GitHub:https://github.com/laddagirisyamala/Student-Skill-Gap-Analyzer
