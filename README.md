@@ -14,20 +14,16 @@ I am a Computer Science student passionate about programming, software developme
 
 ## 🛠️ Skills
 
-*Programming Languages*
-- Python
-- Java
+💻  Programming        🌐 Web Development
+* Python              • HTML
+* Java                • CSS
+                      • JavaScript
+                      • React
 
-*Web Development*
-- HTML
-- CSS
-- JavaScript
-- React
-
-*Tools*
-- Git
-- GitHub
-- VS Code
+⚙️  Tools              🔧 Backend
+* Git                 • Flask
+* GitHub              • Database
+* VS Code             • APIs
 
 ## 📌 Projects
  🚀 Student Skill Gap Analyzer
@@ -40,15 +36,13 @@ Tech: Python | Flask | HTML | CSS
 
 ## 🎯 Career Goal
 
-To become a skilled software developer and contribute to in…
+To begin my career as a Software Developer, where I can apply my programming skills, develop innovative solutions, and continuously learn new technologies while contributing to real-world projects.
 
  
- ## 🏆 Achievements
+ ## 🏆Academic & Community Achievement
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
+- 🌟Completed Health and Hygiene Community Service Project during B.Tech.
+Built practical software projects to solve real-world problems🚀  
 
 
 
