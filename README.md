@@ -1,6 +1,7 @@
 # Hi, I'm Laddagiri Syamala! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+laddagiri-syamala-379ba3412)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laddagirisyamala)
 
 🚀 **Final Year B.Tech Computer Science Engineering Student** 🎯 **Aspiring Backend & Full-Stack Engineer** interested in scalable architectures, data parsing, and building intelligent web systems.
