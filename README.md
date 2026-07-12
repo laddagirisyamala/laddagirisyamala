@@ -18,14 +18,18 @@
 ---
 
 ## 📌 Featured Project  
-🚀 DevMate AI – AI-Powered Developer Assistant
+
+## 🚀 DevMate AI – AI-Powered Developer Assistant
+
 An intelligent AI-powered developer platform that helps users analyze resumes, interact with an AI chatbot, and receive personalized career guidance using Google Gemini AI.
-Backend Architecture: Built with FastAPI and Python, providing scalable REST APIs and high-performance backend services.
-Frontend Development: Developed using React.js with a modern, responsive, and user-friendly interface.
-AI Integration: Powered by Google Gemini AI for resume analysis, intelligent conversations, and personalized career assistance.
-Deployment: Frontend deployed on Vercel and backend deployed on Render for reliable cloud hosting.
-📊 Live Production Demo: https://dev-mate-ai-five.vercel.app/⁠�
-💻 Source Code Repository: https://github.com/laddagirisyamala/DevMate-AI⁠�
+
+- *Backend Architecture:* Built with FastAPI and Python for scalable REST APIs.
+- *Frontend Development:* Developed using React.js with a modern and responsive interface.
+- *AI Integration:* Powered by Google Gemini AI for resume analysis, intelligent conversations, and career guidance.
+- *Deployment:* Frontend hosted on Vercel and backend deployed on Render.
+
+📊 [Live Production Demo](https://dev-mate-ai-five.vercel.app/) |
+💻 [Source Code Repository](https://github.com/laddagirisyamala/DevMate-AI)
 
 ### 🚀 Student Skill Gap Analyzer
 An intelligent web-based analytics application designed to match student profiles against changing industry job descriptions, locate explicit technical knowledge gaps, and dynamically render curated learning roadmaps.
