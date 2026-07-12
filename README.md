@@ -31,7 +31,7 @@ An intelligent AI-powered developer platform that helps users analyze resumes, i
 ## 📸 Application Screenshots
 
 ### 🏠 Home
-![Home](home.png)
+![Home](home.png.jpeg)
 
 ### 💬 AI Chat
 ![AI Chat](Chat.png.jpeg)
