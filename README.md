@@ -19,7 +19,7 @@
 
 ## 📌 Featured Project  
 
-###🚀 DevMate AI
+###🚀 DevMate AI-AI-Powered Developer Assistant
 An AI-powered developer assistant designed to help users analyze resumes, interact with an intelligent chatbot, and receive personalized career guidance using Google Gemini AI. The application combines a modern React frontend with a FastAPI backend to deliver a fast, responsive, and scalable user experience.
 Backend Architecture: Built with FastAPI and Python, featuring modular REST APIs and Google Gemini AI integration.
 Frontend Development: Developed using React.js, providing a modern, responsive, and user-friendly interface.
