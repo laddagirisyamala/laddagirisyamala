@@ -26,8 +26,8 @@ Frontend Development: Developed using React.js, providing a modern, responsive, 
 AI Integration: Powered by Google Gemini AI for intelligent conversations, resume analysis, and career assistance.
 Deployment: Frontend deployed on Vercel and backend deployed on Render for reliable cloud hosting.
 
-📱 Live Production Demo: https://dev-mate-ai-five.vercel.app/⁠�
-💻 Source Code Repository: https://github.com/laddagirisyamala/DevMate-AI
+📱 [Live Production Demo]:(https://dev-mate-ai-five.vercel.app/⁠�)
+💻 [Source Code Repository]:(https://github.com/laddagirisyamala/DevMate-AI)
 
 ### 🚀 Student Skill Gap Analyzer
 An intelligent web-based analytics application designed to match student profiles against changing industry job descriptions, locate explicit technical knowledge gaps, and dynamically render curated learning roadmaps.
