@@ -17,7 +17,16 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Project  
+
+###🚀 DevMate AI
+An AI-powered developer assistant designed to help users analyze resumes, interact with an intelligent chatbot, and receive personalized career guidance using Google Gemini AI. The application combines a modern React frontend with a FastAPI backend to deliver a fast, responsive, and scalable user experience.
+Backend Architecture: Built with FastAPI and Python, featuring modular REST APIs and Google Gemini AI integration.
+Frontend Development: Developed using React.js, providing a modern, responsive, and user-friendly interface.
+AI Integration: Powered by Google Gemini AI for intelligent conversations, resume analysis, and career assistance.
+Deployment: Frontend deployed on Vercel and backend deployed on Render for reliable cloud hosting.
+📱 Live Production Demo: https://dev-mate-ai-five.vercel.app/⁠�
+💻 Source Code Repository: (Add your GitHub repository link here)
 
 ### 🚀 Student Skill Gap Analyzer
 An intelligent web-based analytics application designed to match student profiles against changing industry job descriptions, locate explicit technical knowledge gaps, and dynamically render curated learning roadmaps.
