@@ -25,6 +25,7 @@ Backend Architecture: Built with FastAPI and Python, featuring modular REST APIs
 Frontend Development: Developed using React.js, providing a modern, responsive, and user-friendly interface.
 AI Integration: Powered by Google Gemini AI for intelligent conversations, resume analysis, and career assistance.
 Deployment: Frontend deployed on Vercel and backend deployed on Render for reliable cloud hosting.
+
 📱 Live Production Demo: https://dev-mate-ai-five.vercel.app/⁠�
 💻 Source Code Repository: (Add your GitHub repository link here)
 
