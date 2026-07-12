@@ -25,9 +25,8 @@ An intelligent AI-powered developer platform that helps users analyze resumes, i
 
 - *Backend Architecture:* Built with FastAPI and Python for scalable REST APIs.
 - *Frontend Development:* Developed using React.js with a modern and responsive interface.
-- *AI Integration:* Powered by Google Gemini AI for resume analysis, intelligent conversations, and career guidance.
+- *AI Integration:* Powered by Google Gemini AI for resume analysis, intelligent conversations, and personalized career guidance.
 - *Deployment:* Frontend hosted on Vercel and backend deployed on Render.
-
 📊 [Live Production Demo](https://dev-mate-ai-five.vercel.app/) |
 💻 [Source Code Repository](https://github.com/laddagirisyamala/DevMate-AI)
 
