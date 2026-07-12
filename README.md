@@ -26,8 +26,24 @@ An intelligent AI-powered developer platform that helps users analyze resumes, i
 * **Frontend Development:** Developed using React.js with a modern and responsive interface.
 * **AI Integration:** Powered by Google Gemini AI for resume analysis, intelligent conversations, and personalized career guidance.
 * **Deployment:** Frontend hosted on Vercel and backend deployed on Render.
+* 
 * 📊 [Live Production Demo](https://dev-mate-ai-five.vercel.app/) |💻 [Source Code Repository](https://github.com/laddagirisyamala/DevMate-AI)
+## 📸 Application Screenshots
 
+### 🏠 Home
+![Home](home.png)
+
+### 💬 AI Chat
+![AI Chat](Chat.png.jpeg)
+
+### 📄 Resume Analyzer
+![Resume Analyzer](Resume.png.jpeg)
+
+### 🎤 Interview Preparation
+![Interview Preparation](Interview.jpeg)
+
+### 🧑‍💻 Code Reviewer
+![Code Reviewer](Code-reviewer.jpeg)
 ## 2. 🚀 Student Skill Gap Analyzer
 An intelligent web-based analytics application designed to match student profiles against changing industry job descriptions, locate explicit technical knowledge gaps, and dynamically render curated learning roadmaps.
 
