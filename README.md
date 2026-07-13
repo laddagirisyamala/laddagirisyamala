@@ -22,6 +22,7 @@
 ## 1.🚀 DevMate AI – AI-Powered Developer Assistant
 
 An intelligent AI-powered developer platform that helps users analyze resumes, interact with an AI chatbot, and receive personalized career guidance using Google Gemini AI.
+* **Features:** AI Chat Bot, Resume Analyzer, Code Reviewer, Interview Assistant, Project Generator.
 * **Backend Architecture:** Built with FastAPI and Python for scalable REST APIs.
 * **Frontend Development:** Developed using React.js with a modern and responsive interface.
 * **AI Integration:** Powered by Google Gemini AI for resume analysis, intelligent conversations, and personalized career guidance.
