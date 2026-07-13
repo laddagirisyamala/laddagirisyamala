@@ -28,22 +28,7 @@ An intelligent AI-powered developer platform that helps users analyze resumes, i
 * **Deployment:** Frontend hosted on Vercel and backend deployed on Render.
 * 
 * 📊 [Live Production Demo](https://dev-mate-ai-five.vercel.app/) |💻 [Source Code Repository](https://github.com/laddagirisyamala/DevMate-AI)
-## 📸 Application Screenshots
 
-### 🏠 Home
-![home.png.jpeg](home.png.jpeg)
-
-### 💬 AI Chat
-![AI Chat](Chat.png.jpeg)
-
-### 📄 Resume Analyzer
-![Resume Analyzer](Resume.png.jpeg)
-
-### 🎤 Interview Preparation
-![Interview Preparation](Interview.jpeg)
-
-### 🧑‍💻 Code Reviewer
-![Code Reviewer](Code-reviewer.jpeg)
 ## 2. 🚀 Student Skill Gap Analyzer
 An intelligent web-based analytics application designed to match student profiles against changing industry job descriptions, locate explicit technical knowledge gaps, and dynamically render curated learning roadmaps.
 
